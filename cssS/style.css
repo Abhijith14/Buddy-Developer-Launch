@@ -164,3 +164,86 @@ header {
   -moz-transition: -moz-transform 0.3s 0.7s, opacity 0s 0.7s;
   transition: transform 0.3s 0.7s, opacity 0s 0.7s;
 }
+.outline_text {
+  position: absolute;
+  left: 0;
+  right: 0;
+  text-align: center;
+  top: 16.57%;
+  font-size: 215px;
+  text-transform: uppercase;
+  z-index: 1;
+  -webkit-text-stroke: 1px #313133;
+  -webkit-text-fill-color: transparent;
+  font-weight: 800;
+  font-family: "Poppins", sans-serif;
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+  /* line 64, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_slider.scss */
+  .outline_text {
+    font-size: 120px;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1500px) {
+  /* line 64, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_slider.scss */
+  .outline_text {
+    font-size: 150px;
+  }
+}
+
+/* line 83, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_slider.scss */
+.outline_text.white {
+  -webkit-text-stroke: 1px #EFEFF1;
+  -webkit-text-fill-color: transparent;
+  top: 70px;
+  line-height: 1;
+  z-index: -1;
+}
+
+/* line 90, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_slider.scss */
+.outline_text.blog {
+  -webkit-text-stroke: 1px #349AF7;
+  -webkit-text-fill-color: transparent;
+  top: 70px;
+  line-height: 1;
+  z-index: -1;
+  left: 20.32%;
+  text-align: left;
+}
+
+/* line 99, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_slider.scss */
+.outline_text.testmonial {
+  -webkit-text-stroke: 1px #E5E6E9;
+  -webkit-text-fill-color: transparent;
+  top: 70px;
+  line-height: 1;
+  font-size: 167px;
+  z-index: -1;
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+  /* line 99, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_slider.scss */
+  .outline_text.testmonial {
+    font-size: 120px;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1500px) {
+  /* line 99, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_slider.scss */
+  .outline_text.testmonial {
+    font-size: 150px;
+  }
+}
+
+/* line 114, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_slider.scss */
+.outline_text.project {
+  -webkit-text-stroke: 1px #349AF7;
+  -webkit-text-fill-color: transparent;
+  top: 44%;
+  -webkit-transform: translateY(-55%);
+  -moz-transform: translateY(-55%);
+  -ms-transform: translateY(-55%);
+  transform: translateY(-55%);
+}

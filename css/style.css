@@ -8481,6 +8481,7 @@ textarea.form-control {
 
 .block-3 .image {
   width: 100%;
+  height: 100%;
   padding: 10% 7%; }
   @media (min-width: 768px) {
     .block-3 .image {
