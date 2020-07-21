@@ -139,7 +139,7 @@ header {
   margin-left: -22px;
   margin-top: -22px;
   border-radius: 50%;
-  background: #dc717d url("../img/cd-arrows.svg") no-repeat center center;
+  background: #2f89fc url("../img/cd-arrows.svg") no-repeat center center;
   cursor: move;
   box-shadow: 0 0 0 6px rgba(0, 0, 0, 0.2), 0 0 10px rgba(0, 0, 0, 0.6), inset 0 1px 0 rgba(255, 255, 255, 0.3);
   opacity: 0;
