@@ -5,11 +5,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
-	
-	 <link rel = "icon" href =  "img/logo.ico"  type = "image/x-icon"> 
-	
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,700" rel="stylesheet">
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	
+	<link rel = "icon" href =  "img/logo.ico"  type = "image/x-icon"> 
 
     <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
     <link rel="stylesheet" href="css/animate.css">
@@ -29,10 +27,6 @@
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
-	
-	<link rel="stylesheet" href="cssS/style.css"> <!-- Resource style -->
-	
-	
   </head>
   <body>
 
@@ -51,9 +45,9 @@
             <div class="col-md-12 text-center">
               <h1 class="mb-4"><a href="index.html" class="logo">Create with BUDDY</a></h1>
               <ul>
-                <li><a href="index.html"><span><small>01</small>Home</span></a></li>
+                <li class="active"><a href="index.html"><span><small>01</small>Home</span></a></li>
                 <li><a href="webDesign.html"><span><small>02</small>Services</span></a></li>
-                <li><a href="#about"><span><small>03</small>Contact</span></a></li>
+                <li><a href="" ><span><small>03</small>Contact</span></a></li>
               </ul>
             </div>
           </div>
@@ -66,31 +60,59 @@
         <div class="container">
           <div class="row">
             <div class="col-md-12">
-			<a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle"><i></i></a>
               <div class="colorlib-navbar-brand">
-               <!-- <a class="colorlib-logo" href="index.html"><span class="logo-img" style="background-image: url(images/Logo.png); top:50px;"></span>BUDDY</a> -->
-               <a class="colorlib-logo" href="index.html"><B>BUDDY</B></a>
-		<!--	   <small style="font-size: 25px; color: BLACK; font-weight: 400; letter-spacing: 5px; padding: 7px; display: block; text-align: CENTER; position: relative; padding-left: 367px;">
-					Website for your Needs ...
-			   </small>  -->
+                <a class="colorlib-logo" href="index.html"><B>BUDDY</B></a>
               </div>
+              <a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle"><i></i></a>
             </div>
           </div>
         </div>
       </header>
 
-      <section class="ftco-section">
-	  <div class="outline_text d-none d-lg-block">
-                    Create With BUDDY
-            </div>
+      <section class="ftco-section contact-section">
         <div class="container mt-5">
-          <div class="row justify-content-center mb-5 pb-5">
-		     <div class="col-md-7 text-center heading-section ftco-animate">
-              <span>Code 404!</span>
-              <h2>This Page is under Maintenance</h2>
-			  <span>But feel free to access our other features...</span>
+          <div class="row d-flex mb-5 contact-info">
+            <div class="col-md-12 mb-4">
+              <h2 class="h4">Contact Information</h2>
+            </div>
+            <div class="w-100"></div>
+            <div class="col-md-3">
+              <p><span>Phone:</span> <a href="tel://+919946883500">+91 9946883500</a></p>
+            </div>
+            <div class="col-md-4">
+              <p><span>Email:</span> <a href="mailto:buddy.assistant14@gmail.com">buddy.assistant14@gmail.com</a></p>
+            </div>
+            <div class="col-md-5">
+              <p><span>Website:</span> <a href="https://buddywebdeveloper.herokuapp.com/">buddywebdeveloper.herokuapp.com</a></p>
             </div>
           </div>
+          <div class="row block-9">
+            <div class="col-md-6 pr-md-5">
+             <form action="action_page.php" method="POST">
+                <div class="form-group">
+                  <input type="text" class="form-control" name="name" placeholder="Your Name">
+                </div>
+                <div class="form-group">
+                  <input type="text" class="form-control" name="email" placeholder="Your Email">
+                </div>
+                <div class="form-group">
+                  <input type="text" class="form-control" name="subject" placeholder="Subject">
+                </div>
+                <div class="form-group">
+                  <textarea name="" id="" cols="30" rows="7" class="form-control" name="message" placeholder="Message"></textarea>
+                </div>
+                <div class="form-group">
+                  <input type="submit" value="Send Message" class="btn py-3 px-5" style="background-color:#2f89fc;color:white;">
+                </div>
+              </form>
+            
+            </div>
+            <div class="col-md-6" style="text-align:center;top:45px;">
+				<p style="color:#fff;text-align:left;font-size:50px;font-family:montserrat">Let's Discuss<br>Your Ideas</p>
+		<!--		<img class="img" src="images/contact.png" style="width:360px;"> -->
+			</div>
+          </div>
+        </div>
       </section>
       
       <footer class="ftco-footer ftco-bg-dark ftco-section">
@@ -107,6 +129,7 @@
               <div class="ftco-footer-widget">
                 <h2 class="mb-3">Contact Us</h2>
                 <p class="h3 email" style="font-size:22px;"><a href="https://mail.google.com/mail/?view=cm&fs=1&to=buddy.assistant14@gmail.com" target="_blank">buddy.assistant14@gmail.com</a></p>
+                <p class="h3 email" style="font-size:22px;">+91 9946883500</p>
               </div>
             </div>
           </div>
@@ -143,7 +166,6 @@
     <script src="js/scrollax.min.js"></script>
     <script src="js/bootstrap-datepicker.js"></script>
     <script src="js/jquery.timepicker.min.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
     <script src="js/google-map.js"></script>
     <script src="js/main.js"></script>
     
