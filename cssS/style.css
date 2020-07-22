@@ -89,7 +89,7 @@ header {
   left: 0;
 }
 .is-visible .cd-resize-img {
-  width: 50%;
+  width: 45%;
   /* bounce in animation of the modified image */
   -webkit-animation: cd-bounce-in 0.7s;
   -moz-animation: cd-bounce-in 0.7s;
@@ -104,7 +104,7 @@ header {
     width: 55%;
   }
   100% {
-    width: 50%;
+    width: 45%;
   }
 }
 @-moz-keyframes cd-bounce-in {
@@ -115,7 +115,7 @@ header {
     width: 55%;
   }
   100% {
-    width: 50%;
+    width: 45%;
   }
 }
 @keyframes cd-bounce-in {
@@ -126,7 +126,7 @@ header {
     width: 55%;
   }
   100% {
-    width: 50%;
+    width: 45%;
   }
 }
 .cd-handle {
@@ -134,7 +134,7 @@ header {
   height: 44px;
   width: 44px;
   /* center the element */
-  left: 50%;
+  left: 45%;
   top: 50%;
   margin-left: -22px;
   margin-top: -22px;
