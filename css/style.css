@@ -453,6 +453,71 @@ pre {
 .pre-scrollable {
   max-height: 340px;
   overflow-y: scroll; }
+  
+@media screen and (max-width: 576px) {
+    .gforms {
+		width: 350px;
+		height: 1400px;
+	}
+	.gformslabel2{
+		visibility:visible;
+		width:100px;
+		height:200px;
+	}
+	.gformslabel1{
+		visibility:hidden;
+		width:0;
+		height:0;
+	}
+}  
+@media screen and (min-width: 576px) {
+    .gforms {
+		width: 650px;
+		height: 1300px;
+	}
+	.gformslabel1{
+		visibility:hidden;
+		width:0;
+		height:0;
+	}
+}
+  @media screen and (min-width: 768px) {
+    .gforms {
+		width: 650px;
+		height: 1300px;
+	}
+	.gformslabel1{
+		visibility:hidden;
+		width:0;
+		height:0;
+	}
+}
+  @media screen and (min-width: 992px) {
+    .gforms {
+		width: 650px;
+		height: 1300px;
+	}
+	.gformslabel1{
+		visibility:hidden;
+		width:0;
+		height:0;
+	}
+}
+@media screen and (min-width: 1200px) {
+	.gforms {
+		width: 630px;
+		height: 1300px;
+	}
+	.gformslabel1{
+		visibility:visible;
+	}
+	.gformslabel2{
+		visibility:hidden;
+		width:0;
+		height:0;
+	}
+}
+
 
 .container {
   width: 100%;
@@ -462,7 +527,8 @@ pre {
   margin-left: auto; }
   @media (min-width: 576px) {
     .container {
-      max-width: 540px; } }
+      max-width: 540px; }
+}
   @media (min-width: 768px) {
     .container {
       max-width: 720px; } }
