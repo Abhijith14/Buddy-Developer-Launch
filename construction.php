@@ -1,0 +1,178 @@
+<html class="wide wow-animation desktop landscape js csstransforms rd-navbar-fullwidth-linked" lang="en">
+<head>
+	<!-- Site Title-->
+	<title>Under Construction | BUDDY
+	</title>
+	<meta charset="utf-8"/>
+	<meta content="width=device-width, height=device-height, initial-scale=1.0" name="viewport"/>
+	<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="HOME | BUDDY Developer" />
+	<meta property="og:url" content="https://www.buddywebdeveloper.live" />
+	<meta property="og:site_name" content="BUDDY Developer" />
+	<meta
+	 name="description"
+	 content="Our Aim is your big smile when your imagination comes to the screen while assuring you the best quality service at the minimum cost. Come and Create with BUDDY and give your thoughts a home screen.">
+	<meta property="article:publisher" content="https://www.facebook.com/buddywebdeveloper" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@buddywebdeveloper" />
+	<meta name="twitter:site" content="@buddywebdeveloper" />
+	
+	<script src="js/3ts2ksMwXvKRuG480KNifJ2_JNM.js">
+	</script>
+	<script src="js/4o300efCt-CXoq1JEC-sVReFz48.js">
+	</script>
+	<link href="assets/log1.png" rel="icon" type="image/x-icon"/>
+	<link href="https://fonts.googleapis.com/css?family=Oswald:200,400%7CLato:300,400,300italic,700%7CMontserrat:900" rel="stylesheet" type="text/css"/>
+	<link href="css/bootstrap.css" rel="stylesheet"/>
+	<link href="css/style.css" rel="stylesheet"/>
+	<link href="css/fonts.css" rel="stylesheet"/>
+	<style>.ie-panel{display: none;background: #212121;padding: 10px 0;box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3);clear: both;text-align:center;position: relative;z-index: 1;} html.ie-10 .ie-panel, html.lt-ie-10 .ie-panel {display: block;}
+</style>
+<link href="dataurl.css" rel="stylesheet"/>
+</head>
+<body class="">
+	<div class="ie-panel">
+		<a href="https://windows.microsoft.com/en-US/internet-explorer/">
+			<img alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." height="42" src="assets/warning_bar_0000_us.jpg" width="820"/>
+		</a>
+	</div>
+	<!-- Page preloader-->
+	<div class="page-loader">
+		<div class="page-loader-logo-name">Create With BUDDY &#128151;
+		</div>
+		<div class="preloader-wrapper preloader-big active">
+			<div class="spinner-layer spinner-blue">
+				<div class="circle-clipper left">
+					<div class="circle">
+					</div>
+				</div>
+				<div class="gap-patch">
+					<div class="circle">
+					</div>
+				</div>
+				<div class="circle-clipper right">
+					<div class="circle">
+					</div>
+				</div>
+			</div>
+			<div class="spinner-layer spinner-red">
+				<div class="circle-clipper left">
+					<div class="circle">
+					</div>
+				</div>
+				<div class="gap-patch">
+					<div class="circle">
+					</div>
+				</div>
+				<div class="circle-clipper right">
+					<div class="circle">
+					</div>
+				</div>
+			</div>
+			<div class="spinner-layer spinner-yellow">
+				<div class="circle-clipper left">
+					<div class="circle">
+					</div>
+				</div>
+				<div class="gap-patch">
+					<div class="circle">
+					</div>
+				</div>
+				<div class="circle-clipper right">
+					<div class="circle">
+					</div>
+				</div>
+			</div>
+			<div class="spinner-layer spinner-green">
+				<div class="circle-clipper left">
+					<div class="circle">
+					</div>
+				</div>
+				<div class="gap-patch">
+					<div class="circle">
+					</div>
+				</div>
+				<div class="circle-clipper right">
+					<div class="circle">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Page-->
+	<div class="page animated" style="animation-duration: 500ms;">
+		<!-- Page Header-->
+		<header class="section page-header bg-gray-darker breadcrumbs-custom-wrap">
+			<!-- RD Navbar-->
+			<div class="rd-navbar-wrap rd-navbar-default" style="height: 155.179px;">
+				<nav class="rd-navbar rd-navbar--is-touch rd-navbar-original rd-navbar-static" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-fullwidth" data-xl-layout="rd-navbar-static" data-xxl-layout="rd-navbar-static" data-xxxl-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-fullwidth" data-xl-device-layout="rd-navbar-static" data-xxl-device-layout="rd-navbar-static" data-xxxl-device-layout="rd-navbar-static" data-stick-up-offset="1px" data-sm-stick-up-offset="1px" data-md-stick-up-offset="1px" data-lg-stick-up-offset="1px" data-xl-stick-up-offset="1px" data-xxl-stick-up-offset="1px" data-xxx-lstick-up-offset="1px" data-stick-up="true">
+            <div class="rd-navbar-inner">
+              <!-- RD Navbar Panel-->
+              <div class="rd-navbar-panel">
+                <!-- RD Navbar Toggle-->
+                <!-- RD Navbar Brand-->
+                <div class="rd-navbar-brand">
+                  <!--Brand--><a class="brand-name" href="index.php"><img class="logo-default" src="assets/logo.png" alt="" width="180" height="51"><img class="logo-inverse" src="assets/logo.png" alt="" width="180" height="51"></a>
+                </div>
+              </div>
+            </div>
+          </nav>
+			</div>
+		</header>
+		<section class="section fullwidth-page bg-gradient-3">
+			<div class="fullwidth-page-inner">
+				<div class="section-md text-center">
+					<div class="container-wide">
+						<p class="breadcrumbs-custom-subtitle">The Website will be Available Soon
+						</p>
+						<p class="heading-1 breadcrumbs-custom-title">under construction
+						</p>
+						<p>Our website is coming soon and we are currently working very hard 
+							<br class="d-none d-md-inline"/>to give you the best experience on our new website. Stay ready, we`re launching soon.
+						</p>
+						<div class="row justify-content-sm-center">
+							<div class="col-md-8 col-xl-6 col-xxl-4">
+								<!-- RD Mailform: Subscribe-->
+								<form class="rd-mailform rd-mailform-inline rd-mailform-sm rd-mailform-inline-modern" data-form-output="form-output-global" data-form-type="subscribe" method="post" action="">
+					                    <div class="rd-mailform-inline-inner">
+					                      <div class="form-wrap">
+					                        <input class="form-input" type="email" name="email" data-constraints="@Email @Required" id="subscribe-form-email-1" placeholder="Enter your e-mail">
+					                      </div>
+					                      <button class="button form-button button-sm button-secondary button-nina" type="submit"><span style="transition: opacity 0.22s ease 0s, transform 0.22s ease 0s, color 0.22s ease 0s;">S</span><span style="transition: opacity 0.22s ease 0.03s, transform 0.22s ease 0.03s, color 0.22s ease 0s;">u</span><span style="transition: opacity 0.22s ease 0.06s, transform 0.22s ease 0.06s, color 0.22s ease 0s;">b</span><span style="transition: opacity 0.22s ease 0.09s, transform 0.22s ease 0.09s, color 0.22s ease 0s;">s</span><span style="transition: opacity 0.22s ease 0.12s, transform 0.22s ease 0.12s, color 0.22s ease 0s;">c</span><span style="transition: opacity 0.22s ease 0.15s, transform 0.22s ease 0.15s, color 0.22s ease 0s;">r</span><span style="transition: opacity 0.22s ease 0.18s, transform 0.22s ease 0.18s, color 0.22s ease 0s;">i</span><span style="transition: opacity 0.22s ease 0.21s, transform 0.22s ease 0.21s, color 0.22s ease 0s;">b</span><span style="transition: opacity 0.22s ease 0.24s, transform 0.22s ease 0.24s, color 0.22s ease 0s;">e</span><span class="button-original-content" style="transition: background 0.22s ease 0s, color 0.22s ease 0s, transform 0.22s ease 0.27s;">Subscribe</span></button>
+					                    </div>
+                  				</form>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- Page Footer-->
+				<div class="section-xs page-footer text-center">
+					<div class="container">
+						<p class="rights">
+							<span>©&nbsp;</span>
+							<span class="copyright-year">2020
+							</span>
+							<span>
+							</span>
+							<span>Buddy Developer
+							</span>
+							<span>.
+							</span>
+							<a href="#">Privacy Policy
+							</a>
+						</p>
+					</div>
+				</div>
+			</div>
+		</section>
+	</div>
+	
+	<!-- Javascript-->
+	<script src="js/core.min.js">
+	</script>
+	<script src="js/script.js">
+	</script>
+</body>
+</html>

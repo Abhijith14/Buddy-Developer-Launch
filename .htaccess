@@ -1,1 +1,8 @@
-ErrorDocument 404 /my-404-page.php
+RewriteEngine on
+RewriteCond %{THE_REQUEST} /([^.]+)\.php [NC]
+RewriteRule ^ /%1 [NC,L,R]
+
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^ %{REQUEST_URI}.php [NC,L]
+ErrorDocument 404 /404.php
+ErrorDocument 503 /503.php
