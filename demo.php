@@ -2,7 +2,7 @@
 
 date_default_timezone_set("Asia/kolkata");
 
-$d="2020-12-08 00:00:00";
+$d="2022-12-08 00:00:00";
 
 $create = date("y-m-d H:i:s", strtotime($d));
 $curr = date("y-m-d H:i:s");
@@ -244,7 +244,7 @@ if ($create > $curr)
 	<!-- Javascript-->
 	<script>
 // Set the date we're counting down to
-var countDownDate = new Date("Dec 08, 2020 00:00:00").getTime();
+var countDownDate = new Date("Dec 08, 2023 00:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
